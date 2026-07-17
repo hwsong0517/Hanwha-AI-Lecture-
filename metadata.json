@@ -1,0 +1,6 @@
+{
+  "name": "T-ACT: PGM 구동장치 공차 해석 도구",
+  "description": "유도무기용 구동장치의 1차원 누적공차 해석 및 MIL-STD-810H 환경 시뮬레이션을 지원하는 전문가용 설계 보조 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
